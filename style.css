@@ -1,7 +1,7 @@
 body {
 	background-color: rgb(230, 230, 230);
 	color: rgb(30, 30, 30);
-	font-family: Courier;
+	font-family: Ubuntu;
 }
 
 h1 {
@@ -11,6 +11,14 @@ h1 {
 	letter-spacing: 10px;
 	font-size: 32px;
 	text-transform: uppercase;
+}
+
+h2 {
+	color: #ff0119
+	font-family: Source Sans Pro;
+	font-weight: 600;
+	letter-spacing: 10px;
+	font-size: 26px;
 }
 
 .container {
@@ -30,5 +38,5 @@ h1 {
 	width: 80px;
 	height: 40 px;
 	border-radius: 50%;
-	margin: 10px auto;
+	margin: 40px auto;
 }
